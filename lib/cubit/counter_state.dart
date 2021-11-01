@@ -1,9 +1,11 @@
 part of 'counter_cubit.dart';
 
 class CounterState {
-  int counterValue = 0;
+  int counterValue;
+  bool wasIncremented;
 
-  CounterState(int counterValue) {
-    this.counterValue = counterValue;
-  }
+  CounterState({
+    required this.counterValue,
+    required this.wasIncremented,
+  });
 }
