@@ -1,6 +1,6 @@
-# exercise6_q1
+# Mobile Flutter
 
-A new Flutter project.
+The boilerplate flutter counter app is refactored to work with flutter_bloc. Cubit, BlocProvider and BlocBuiler were used.
 
 ## Getting Started
 
