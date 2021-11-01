@@ -1,4 +1,4 @@
-# Mobile Flutter
+# Mobile Flutter Bloc Exercise 6 Question 1
 
 The boilerplate flutter counter app is refactored to work with flutter_bloc. Cubit, BlocProvider and BlocBuiler were used.
 
